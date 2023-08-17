@@ -95,7 +95,7 @@ class Tongyi(LLM):
         .. code-block:: python
 
             from langchain.llms import Tongyi
-            Tongyi = tongyi()
+            tongyi = Tongyi()
     """
 
     @property
